@@ -30,6 +30,14 @@ Framework development discussions and thorough bug reports are collected on [Iss
 
 Happy brewing!
 
+## New added
+- smoothL1 loss layer
+- roi pooling layer
+- center loss layer
+- stn layer
+- python confusion matrix layer
+- plot curves of loss and accuracy
+
 ## License and Citation
 
 Caffe is released under the [BSD 2-Clause license](https://github.com/BVLC/caffe/blob/master/LICENSE).
